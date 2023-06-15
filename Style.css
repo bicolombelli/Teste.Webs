@@ -1,0 +1,15 @@
+table{
+    text-align: center;
+    color: rgb(24, 24, 21);
+}
+label{
+    text-align: center;
+    width: 100px;
+    display: block;
+}
+#bordinha{
+    background-color: rgb(207, 212, 212);
+    border-style: solid;
+    border-top-left-radius: 20px;
+    padding: 10px;
+}
